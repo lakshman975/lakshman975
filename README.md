@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lakshman975/lakshman975/blob/main/banner_1.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/lakshman975/lakshman975/blob/main/banner_2.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Lakshman Kumar Dadi
@@ -12,7 +12,7 @@
 
 ---
 
-Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
+Passionate **DevOps & AWS Cloud Engineer** with **3.5+ years of experience** in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
 
 ---
 
