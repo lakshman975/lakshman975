@@ -81,9 +81,9 @@ Passionate **DevOps & AWS Cloud Engineer** with over **3.5+ years of experience*
 
 ### 💼 Career Snapshot
 
-- 🏢 **Coforge** – *DevOps & AWS Cloud Engineer (3+ Years)*
+- 🏢 **Coforge** – *DevOps & AWS Cloud Engineer (3.5+ Years)*
 
-  Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud security — delivering scalable, reliable, and efficient cloud platforms.
+  Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud     security — delivering scalable, reliable, and efficient cloud platforms.
 
 ---
 
