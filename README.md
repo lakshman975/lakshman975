@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lakshman975/lakshman975/blob/main/banner_2.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/lakshman975/lakshman975/blob/main/banner_1.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Lakshman Kumar Dadi
