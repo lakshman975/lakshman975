@@ -8,7 +8,7 @@
 🚀 DevOps  • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | DevSecOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lakshman-kumar-dadi/)
-[![Gmail](https://img.shields.io/badge/Email-dadilakshmankumar123@gmail.com-red?logo=gmail&style=flat)](mailto:dadilakshmankumar123@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-laxman.axn@gmail.com-red?logo=gmail&style=flat)](mailto:dadilakshmankumar123@gmail.com)
 
 ---
 
