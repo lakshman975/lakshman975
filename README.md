@@ -8,11 +8,11 @@
 🚀 DevOps  • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | DevSecOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lakshman-kumar-dadi/)
-[![Gmail](https://img.shields.io/badge/Email-laxman.axn@gmail.com-red?logo=gmail&style=flat)](mailto:dadilakshmankumar123@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-lakshman.dadi96@gmail.com-red?logo=gmail&style=flat)](mailto:dadilakshmankumar123@gmail.com)
 
 ---
 
-Passionate **DevOps & AWS Cloud Engineer** with over **3.5+ years of experience** in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
+Passionate **DevOps & AWS Cloud Engineer** with over **4+ years of experience** in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
 
 ---
 
@@ -81,7 +81,7 @@ Passionate **DevOps & AWS Cloud Engineer** with over **3.5+ years of experience*
 
 ### 💼 Career Snapshot
 
-- 🏢 **Coforge** – *DevOps & AWS Cloud Engineer (3.5+ Years)*
+- 🏢 **Coforge** – *DevOps & AWS Cloud Engineer (4+ Years)*
 
   Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud     security — delivering scalable, reliable, and efficient cloud platforms.
 
